@@ -1,0 +1,9 @@
+﻿  ClassProject.cpp
+  List.cpp
+C:\Users\angel\OneDrive\Documents\UCQ_data_structs_adrian_gonzalez\ClassProject\ClassProject\List.cpp(10,15): error C2995: 'void List<T>::PushBack(const T &)': ya se ha definido la plantilla de función
+C:\Users\angel\OneDrive\Documents\UCQ_data_structs_adrian_gonzalez\ClassProject\ClassProject\List.h(19,10): message : vea la declaración de 'List<T>::PushBack'
+C:\Users\angel\OneDrive\Documents\UCQ_data_structs_adrian_gonzalez\ClassProject\ClassProject\List.cpp(15,15): error C2995: 'void List<T>::Print(void)': ya se ha definido la plantilla de función
+C:\Users\angel\OneDrive\Documents\UCQ_data_structs_adrian_gonzalez\ClassProject\ClassProject\List.h(25,10): message : vea la declaración de 'List<T>::Print'
+  LQueue.cpp
+  LStack.cpp
+  Generando código...
